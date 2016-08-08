@@ -70,3 +70,5 @@ Copyright (c) 2013 Jongmin Kim (http://cmiscm.com)
 Licensed under the MIT license.
 
  - http://www.opensource.org/licenses/mit-license.php
+
+终于找到类似这个效果的源码了！！！闹个React版本的
