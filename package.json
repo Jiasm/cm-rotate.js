@@ -1,0 +1,19 @@
+{
+  "name": "rotate",
+  "version": "0.0.1",
+  "description": "rotate list",
+  "main": "index.js",
+  "scripts": {
+    "start": "anywhere"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.blued.cn/nieweidong/blued-webapp.git"
+  },
+  "devDependencies": {
+    "eslint": "^2.10.1",
+    "eslint-config-standard": "^5.3.1",
+    "eslint-plugin-promise": "^1.1.0",
+    "eslint-plugin-standard": "^1.3.2"
+  }
+}
